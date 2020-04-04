@@ -1,0 +1,13 @@
+ERROR invalib array size
+
+ERROR n2
+
+ERROR n3
+
+ERROR invalib array size
+
+ERROR n5
+
+q
+sorted erray:  q
+

@@ -1,0 +1,35 @@
+2 3 1
+3 2 1
+3 2 1
+sorted erray:  3  2  1
+
+3 2 7 8 3 8 1
+3 8 7 8 3 2 1
+3 8 7 8 3 2 1
+8 8 7 3 3 2 1
+8 8 7 3 3 2 1
+8 8 7 3 3 2 1
+8 8 7 3 3 2 1
+sorted erray:  8  8  7  3  3  2  1
+
+1.1 -1.2 1.3 1.5 -1.4
+1.1 1.5 1.3 -1.2 -1.4
+1.3 1.5 1.1 -1.2 -1.4
+1.5 1.3 1.1 -1.2 -1.4
+1.5 1.3 1.1 -1.2 -1.4
+sorted erray:  1.5  1.3  1.1  -1.2  -1.4
+
+4 1 8 0
+4 8 1 0
+8 4 1 0
+8 4 1 0
+sorted erray:  8  4  1  0
+
+q e c k u y b
+q e y k u c b
+q u y k e c b
+q u y k e c b
+y u q k e c b
+y u q k e c b
+y u q k e c b
+sorted erray:  y  u  q  k  e  c  b
